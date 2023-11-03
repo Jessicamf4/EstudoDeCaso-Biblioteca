@@ -1,0 +1,15 @@
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\bin\Debug\net6.0\Biblioteca2.exe
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\bin\Debug\net6.0\Biblioteca2.deps.json
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\bin\Debug\net6.0\Biblioteca2.runtimeconfig.json
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\bin\Debug\net6.0\Biblioteca2.dll
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\bin\Debug\net6.0\Biblioteca2.pdb
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.dll
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\refint\Biblioteca2.dll
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.pdb
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\Biblioteca2.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Documentos\Ciência da Computação\4º-Periodo\Estrutura de dados e análise de algoritmos\Estudo de caso\Biblioteca2\Biblioteca2\obj\Debug\net6.0\ref\Biblioteca2.dll
