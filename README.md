@@ -27,6 +27,4 @@ Para experimentar o Sistema de Gerenciamento de Biblioteca, acesse os diretório
 Contribuições são bem-vindas! Se você encontrar maneiras de otimizar ou aprimorar a implementação existente, sinta-se à vontade para enviar um pull request.
 
 ## Créditos
-Este projeto foi desenvolvido como parte de um estudo de caso na disciplina de Estrutura de Dados e Análise de Algoritmos na [Nome da Faculdade/Universidade]. Os colaboradores deste repositório estão listados no arquivo CONTRIBUTORS.md.
-
-Esperamos que este projeto seja útil para compreender e aplicar conceitos práticos de estrutura de dados e análise de algoritmos em um contexto real. Boa exploração!
+Este projeto foi desenvolvido como parte de um estudo de caso na disciplina de Estrutura de Dados e Análise de Algoritmos na UNA. 
